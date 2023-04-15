@@ -70,4 +70,6 @@
   set math.equation(numbering: "(1)")
 
   include "../contents/context.typ"  
+
+  include "../contents/export-reference.typ"  
 }
